@@ -1,0 +1,39 @@
+body 
+{
+    font-family:Dancing Script;
+    background: aqua;
+}
+
+.header_div
+{
+    background-color:antiquewhite;
+    color:black;
+}
+
+.header_div p
+{
+   font-family: 'Dancing Script';
+   color:black;
+   letter-spacing:2px;
+   font-size:25px;
+   font-weight:bold;
+}
+
+#Header
+{
+    font-size:40px;
+}
+
+#Start
+{
+    margin-top: 35px;
+    width:125px;
+    height:auto;
+}
+
+#copy_right_footer
+{
+    margin-top: 250px;
+    font-size: xx-large;
+
+}
